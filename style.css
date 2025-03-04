@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('fonts/OpenDyslexic3-Regular.ttf');
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body h1,h2,h3,p {
+    margin: 10pt 5% 10pt 5%;
+}
+
+.dyslex * {
+    font-family: 'OpenDyslexic';
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
